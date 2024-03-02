@@ -1,0 +1,32 @@
+[
+    {
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "image": "https://www.hitoradio.com/media/album_cover/normal/16607.jpg?1709370730",
+      "thumbnail": "https://www.hitoradio.com/media/artist_pic/normal/7100.jpg"
+    },
+    {
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "image": "https://www.hitoradio.com/media/album_cover/normal/17389.jpg?1709370730",
+      "thumbnail": "https://www.hitoradio.com/media/artist_pic/normal/7100.jpg"
+    },
+    {
+        "title": "Training Session",
+        "artist": "Dua Lipa",
+        "image": "https://www.hitoradio.com/media/album_cover/normal/19439.jpg?1709370730",
+        "thumbnail": "https://www.hitoradio.com/media/artist_pic/normal/7100.jpg"
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "image": "https://www.hitoradio.com/media/album_cover/normal/17446.jpg?1709370730",
+      "thumbnail": "https://www.hitoradio.com/media/artist_pic/normal/7100.jpg"
+    },
+    {
+      "title": "Break My Heart",
+      "artist": "Dua Lipa",
+      "image": "https://www.hitoradio.com/media/artist_pic/normal/7100.jpg",
+      "thumbnail": "https://www.hitoradio.com/media/artist_pic/normal/7100.jpg"
+    }
+  ]
